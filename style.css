@@ -214,10 +214,10 @@
         text-align: center;
     }
     .whatsapp-link{
-        border-radius: 0%;
+        border-radius: 10%;
     }
     .instagram-link{
-        border-radius: 10%;
+        border-radius: 15%;
     }
 
     .contact-links {
